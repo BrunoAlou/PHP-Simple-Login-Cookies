@@ -1,6 +1,6 @@
-# PHP-Simple-CRUD 
+# PHP-Simple-Login 
 
-Simple Crud with this functions:
+Simple Login with this functions:
     *Add User
     *Login With User (Using Cookies)
     *List all users added
